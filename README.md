@@ -77,7 +77,7 @@ insurance-salary-prediction-ml/
 ## Installation
 
 ```bash
-git clone [<repository-url>](https://github.com/dadukhan1/insurance-salary-prediction-ml)
+git clone https://github.com/dadukhan1/insurance-salary-prediction-ml
 cd insurance-salary-prediction-ml
 ```
 

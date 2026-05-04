@@ -70,8 +70,7 @@ The objective of this project is to analyze insurance data, extract useful insig
 insurance-salary-prediction-ml/
 │── Insurance.ipynb
 │── README.md
-│── requirements.txt
-│── dataset.csv
+│── insurance.csv
 ```
 
 ## Installation
